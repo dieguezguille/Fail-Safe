@@ -1,0 +1,7 @@
+C:\Users\Guille\Desktop\Archivos\MS-Repos\FailSafe\FailSafe\FailSafe\bin\Debug\FailSafe.exe.config
+C:\Users\Guille\Desktop\Archivos\MS-Repos\FailSafe\FailSafe\FailSafe\bin\Debug\FailSafe.exe
+C:\Users\Guille\Desktop\Archivos\MS-Repos\FailSafe\FailSafe\FailSafe\bin\Debug\FailSafe.pdb
+C:\Users\Guille\Desktop\Archivos\MS-Repos\FailSafe\FailSafe\FailSafe\obj\Debug\FailSafe.csprojAssemblyReference.cache
+C:\Users\Guille\Desktop\Archivos\MS-Repos\FailSafe\FailSafe\FailSafe\obj\Debug\FailSafe.csproj.CoreCompileInputs.cache
+C:\Users\Guille\Desktop\Archivos\MS-Repos\FailSafe\FailSafe\FailSafe\obj\Debug\FailSafe.exe
+C:\Users\Guille\Desktop\Archivos\MS-Repos\FailSafe\FailSafe\FailSafe\obj\Debug\FailSafe.pdb

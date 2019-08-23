@@ -1,0 +1,6 @@
+C:\Users\Guille\Desktop\Archivos\MS-Repos\FailSafe\FailSafe\FailSafe\bin\Release\FailSafe.exe.config
+C:\Users\Guille\Desktop\Archivos\MS-Repos\FailSafe\FailSafe\FailSafe\bin\Release\FailSafe.exe
+C:\Users\Guille\Desktop\Archivos\MS-Repos\FailSafe\FailSafe\FailSafe\bin\Release\FailSafe.pdb
+C:\Users\Guille\Desktop\Archivos\MS-Repos\FailSafe\FailSafe\FailSafe\obj\Release\FailSafe.csproj.CoreCompileInputs.cache
+C:\Users\Guille\Desktop\Archivos\MS-Repos\FailSafe\FailSafe\FailSafe\obj\Release\FailSafe.exe
+C:\Users\Guille\Desktop\Archivos\MS-Repos\FailSafe\FailSafe\FailSafe\obj\Release\FailSafe.pdb
